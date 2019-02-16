@@ -1,0 +1,17 @@
+package ACA1;
+
+public class CreditCard {
+
+	String CrCa = "4417 1234 5678 9113";
+
+	public CreditCard(String crcdnb) { // see change primitive exemple week 3 folder
+
+		this.CrCa = crcdnb;
+
+	}
+
+	public boolean validate() {
+		return false;
+
+	}
+}

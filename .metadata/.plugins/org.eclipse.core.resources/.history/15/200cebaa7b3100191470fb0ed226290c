@@ -1,0 +1,13 @@
+package ACA1;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		String st= "1234 1234 1234 1234";
+		CreditCard cc = new CreditCard(st);	
+		cc.validate();
+		//System.out.println(st);
+	}
+
+}

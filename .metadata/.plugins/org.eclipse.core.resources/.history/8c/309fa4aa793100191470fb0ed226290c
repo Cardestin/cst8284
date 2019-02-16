@@ -1,0 +1,29 @@
+package ACA1;
+
+public class CreditCard {
+
+	private String creditCardNum;
+
+	public CreditCard(String creditCardNum ) { // see change primitive exemple week 3 folder
+
+		this.creditCardNum  = creditCardNum ;
+
+	}
+
+	public boolean validate() {
+		
+		int groupOneTotal=0;
+		int  groupTwoTotal=0; 
+		int total =0; 
+		
+		
+		//for ( i=1); 
+		
+		
+		
+		return false;
+		
+		
+
+	}
+}
